@@ -6,9 +6,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/subhashsomarouthu/Atliq_Sales_Analytics_Excel_casestudy/blob/bfd7b88e6d886368365c9510031e81f6eb83f17a/Customer_Sales_Performance_Report.pdf) 
+    **1.** Created a _[customer performance report](https://github.com/subhashsomarouthu/Atliq_Sales_Analytics_Excel_casestudy/blob/bfd7b88e6d886368365c9510031e81f6eb83f17a/Customer_Sales_Performance_Report.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/subhashsomarouthu/Atliq_Sales_Analytics_Excel_casestudy/blob/bfd7b88e6d886368365c9510031e81f6eb83f17a/Market_Performance_Actual%20vs%20Target_Report.pdf)
+    **2.** Conducted a comprehensive comparison between _[market performance and sales targets](https://github.com/subhashsomarouthu/Atliq_Sales_Analytics_Excel_casestudy/blob/bfd7b88e6d886368365c9510031e81f6eb83f17a/Market_Performance_Actual%20vs%20Target_Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -25,11 +25,11 @@
   
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/subhashsomarouthu/Atliq_Sales_Analytics_Excel_casestudy/blob/bfd7b88e6d886368365c9510031e81f6eb83f17a/P%26L_by_Markets_Report.pdf)
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
